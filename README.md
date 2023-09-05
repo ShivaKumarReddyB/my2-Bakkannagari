@@ -16,4 +16,7 @@ I like going to **Telangana, India**, to see my grandparents. It is an ideal loc
 - Sweets
 -  Mutton Curry
 
+ Know more about me [MyStats](MyStats.md).
+
+
 
