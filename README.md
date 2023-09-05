@@ -34,8 +34,8 @@ This are some of the sports I would like to recommend which helps to stay fit an
 ---
 ### Pithy Quotes
 
-> *The most incomprehensible thing about the world is that it is comprehensible.* - **Albert Einstein**
+> **The most incomprehensible thing about the world is that it is comprehensible.** - *Albert Einstein*
 
-> *Somewhere, something incredible is waiting to be known.* - **Carl Sagan**
+> **Somewhere, something incredible is waiting to be known.** - *Carl Sagan*
 
 
