@@ -18,5 +18,18 @@ I like going to **Telangana, India**, to see my grandparents. It is an ideal loc
 
  Know more about me [MyStats](MyStats.md).
 
+---
+
+## Sports Recommendations
+This are some of the sports I would like to recommend which helps to stay fit and healthy and also improves strength and reduces stress
+
+
+| Sport            | Reason                                | Weekly Hours |
+| ---------------- | ------------------------------------- | ------------ |
+| Badminton        | Great for relaxation and fitness      | 1-2 hours    |
+| Hiking           | Enjoy nature and stay active          | 3-5 hours    |
+| Cricket           | Social and competitive                | 4-6 hours    |
+| Football             | Full on body movement and flexibility         | 2-3 hours    |
+
 
 
