@@ -10,5 +10,10 @@ I like going to **Telangana, India**, to see my grandparents. It is an ideal loc
    2. Eating home cooked food
    3. Visiting farm lands
 
+## list of dishes
+ 
+- Sea food
+- Sweets
+-  Mutton Curry
 
 
