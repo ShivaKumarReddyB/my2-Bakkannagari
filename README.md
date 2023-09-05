@@ -31,5 +31,11 @@ This are some of the sports I would like to recommend which helps to stay fit an
 | Cricket           | Social and competitive                | 4-6 hours    |
 | Football             | Full on body movement and flexibility         | 2-3 hours    |
 
+---
+### Pithy Quotes
+
+> *The most incomprehensible thing about the world is that it is comprehensible.* - **Albert Einstein**
+
+> *Somewhere, something incredible is waiting to be known.* - **Carl Sagan**
 
 
