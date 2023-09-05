@@ -38,4 +38,15 @@ This are some of the sports I would like to recommend which helps to stay fit an
 
 > **Somewhere, something incredible is waiting to be known.** - *Carl Sagan*
 
+---
+## Code Fencing
+
+> **Stack Overflow Question:** [html meta viewport tag](https://stackoverflow.com/questions/23662621/html-meta-viewport-tag)
+
+Display the snippet from css-tricks using code fencing:
+
+```html
+<meta name="viewport" content="width=device-width">
+```
+Snippet Source [Responsive Meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 
